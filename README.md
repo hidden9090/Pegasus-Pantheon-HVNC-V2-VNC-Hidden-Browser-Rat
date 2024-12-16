@@ -252,6 +252,8 @@ Your feedback is invaluable and highly encouraged. Feel free to propose new feat
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 
 
+https://t.me/+1tDzjSCGDDs0ODA9
+
 ## License
 
 This project is licensed under the MIT License. For more information, see the [LICENSE file](LICENSE).
