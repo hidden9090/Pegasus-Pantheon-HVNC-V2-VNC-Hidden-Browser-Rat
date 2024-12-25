@@ -19,7 +19,10 @@ Pegasus is a premier Remote Administration Tool (RAT) paired with HVNC (Hidden V
 
 
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090
- 
+
+ If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 ## How to Use
 
@@ -151,6 +154,10 @@ Once the Hidden VNC is installed on your remote computer,you will be able to int
 
   Contact me here  -  https://t.me/+jchT98W2AFI5Y2U1
 
+  If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
+
 
 ### Pegasus / Pantheon / Skynet Rat Hvnc  Supported Browsers 
 ![image](https://user-images.githubusercontent.com/106186548/170260119-d82fbfa9-d078-485c-ad1e-017b8d5a95ac.png)
@@ -250,6 +257,10 @@ Please be aware that this thread is exclusively for reviews. If you have questio
 Your feedback is invaluable and highly encouraged. Feel free to propose new features and report any identified bugs. By purchasing the software, you automatically agree to the Terms of Service.
 
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 
 https://t.me/+1tDzjSCGDDs0ODA9
