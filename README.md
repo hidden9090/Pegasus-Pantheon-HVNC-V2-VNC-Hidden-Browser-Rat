@@ -7,7 +7,7 @@
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Chat](https://badges.gitter.im/awesome-twitter-bots/Lobby.svg)
 
-## Overview of Pegasus / Pantheon / Skynet RAT HVNC                
+## Overview of Pegasus / Pantheon / Skynet RAT HVNC                 
   
 Pegasus is a premier Remote Administration Tool (RAT) paired with HVNC (Hidden Virtual Network Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus' HVNC facet facilitates the orchestration of a concealed desktop environment, enabling the seamless execution of numerous browsers. This is achieved through duplicating the user's profile, all while eluding the user's detection. Similarly, applications such as Outlook, Foxmail, and Thunderbird are subject to the same covert execution. Additionally, Pegasus takes pride in offering an exceptional password recovery mechanism catering to a wide array of browsers. Collectively, these attributes render Pegasus a paragon in the realm of IT and Red Team endeavors, distinguished by its surreptitious, potent, and versatile capabilities.
 
