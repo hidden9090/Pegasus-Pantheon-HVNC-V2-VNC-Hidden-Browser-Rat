@@ -1,5 +1,5 @@
 # Pantheon-HVNC-V2-Source-leaked 
-![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)
+![GitHub release](https://img.shields.io/github/release/ppy/osu.svg) 
 ![CodeFactor](https://www.codefactor.io/repository/github/ppy/osu/badge)
 ![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)
 ![Crowdin](https://d322cqt584bo4o.cloudfront.net/osu-web/localized.svg)
