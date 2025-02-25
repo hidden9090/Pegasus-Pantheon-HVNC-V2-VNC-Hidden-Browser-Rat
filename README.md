@@ -256,6 +256,9 @@ Please be aware that this thread is exclusively for reviews. If you have questio
 
 Your feedback is invaluable and highly encouraged. Feel free to propose new features and report any identified bugs. By purchasing the software, you automatically agree to the Terms of Service.
 
+ **First see free demo than purchase private one**                                                                                  
+
+
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 
 If not replying you than  I'm busy in that case , please 
