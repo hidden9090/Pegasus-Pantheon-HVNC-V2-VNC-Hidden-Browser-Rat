@@ -2,7 +2,7 @@
 ![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)  
 ![CodeFactor](https://www.codefactor.io/repository/github/ppy/osu/badge)
 ![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)
-![Crowdin](https://d322cqt584bo4o.cloudfront.net/osu-web/localized.svg)
+![Crowdin](https://d322cqt584bo4o.cloudfront.net/osu-web/localized.svg) 
 ![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Chat](https://badges.gitter.im/awesome-twitter-bots/Lobby.svg)
